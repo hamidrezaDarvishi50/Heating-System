@@ -70,3 +70,19 @@ Where:
 ## 📊 Simulation Goal
 
 Maintain room temperatures within the desired range (15°C – 20°C) under system constraints.
+
+
+
+## 🚀 How to Use
+
+1. Open MATLAB
+3. Load the Simulink model
+4. Run init_params.m
+5. Run Project_Architecture.slx
+6. Open scope and observe temperature and heater behavior
+
+## 👨‍🎓 Academic Information
+
+Course: Fundamentals of Embedded Systems  
+Semester: 1404–1405  
+Instructor: Dr. Attarzadeh  
