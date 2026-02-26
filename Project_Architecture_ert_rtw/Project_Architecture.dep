@@ -1,0 +1,26 @@
+Project_Architecture.o: \
+ C:\Users\MYNOTE~1\OneDrive\Desktop\project\Project_Architecture_ert_rtw\Project_Architecture.c \
+ C:\Users\MYNOTE~1\OneDrive\Desktop\project\Project_Architecture_ert_rtw\Project_Architecture.h \
+ C:\Users\MYNOTE~1\OneDrive\Desktop\project\Project_Architecture_ert_rtw\rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_continuous.h \
+ C:/Users/MYNOTE~1/OneDrive/Desktop/project/Project_Architecture_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_continuous.h \
+ C:\Users\MYNOTE~1\OneDrive\Desktop\project\Project_Architecture_ert_rtw\Project_Architecture_types.h \
+ C:\Users\MYNOTE~1\OneDrive\Desktop\project\Project_Architecture_ert_rtw\Project_Architecture_private.h
+
+C:\Users\MYNOTE~1\OneDrive\Desktop\project\Project_Architecture_ert_rtw\Project_Architecture.h:
+
+C:\Users\MYNOTE~1\OneDrive\Desktop\project\Project_Architecture_ert_rtw\rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_continuous.h:
+
+C:/Users/MYNOTE~1/OneDrive/Desktop/project/Project_Architecture_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_continuous.h:
+
+C:\Users\MYNOTE~1\OneDrive\Desktop\project\Project_Architecture_ert_rtw\Project_Architecture_types.h:
+
+C:\Users\MYNOTE~1\OneDrive\Desktop\project\Project_Architecture_ert_rtw\Project_Architecture_private.h:

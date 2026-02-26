@@ -1,0 +1,26 @@
+Controller.o: \
+ C:\Users\MYNOTE~1\OneDrive\Desktop\project\Controller_ert_rtw\Controller.c \
+ C:\Users\MYNOTE~1\OneDrive\Desktop\project\Controller_ert_rtw\Controller.h \
+ C:\Users\MYNOTE~1\OneDrive\Desktop\project\Controller_ert_rtw\rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_continuous.h \
+ C:/Users/MYNOTE~1/OneDrive/Desktop/project/Controller_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_continuous.h \
+ C:\Users\MYNOTE~1\OneDrive\Desktop\project\Controller_ert_rtw\Controller_types.h \
+ C:\Users\MYNOTE~1\OneDrive\Desktop\project\Controller_ert_rtw\Controller_private.h
+
+C:\Users\MYNOTE~1\OneDrive\Desktop\project\Controller_ert_rtw\Controller.h:
+
+C:\Users\MYNOTE~1\OneDrive\Desktop\project\Controller_ert_rtw\rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_continuous.h:
+
+C:/Users/MYNOTE~1/OneDrive/Desktop/project/Controller_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2025b/simulink/include/rtw_continuous.h:
+
+C:\Users\MYNOTE~1\OneDrive\Desktop\project\Controller_ert_rtw\Controller_types.h:
+
+C:\Users\MYNOTE~1\OneDrive\Desktop\project\Controller_ert_rtw\Controller_private.h:
